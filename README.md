@@ -4,8 +4,6 @@
 **krngrover6/krngrover6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<div style="max-width: 800px; margin: auto;">
-
 # 💫 About Me:
 <div style="display: flex; align-items: center;">
   <div style="flex: 1; min-width: 300px;">
@@ -46,7 +44,7 @@
     <p>GitHub: <a href="https://github.com/yourusername/project1">Signal Preprocessing Repository</a></p>
   </div>
   <div style="flex-shrink: 0; margin-left: 20px;">
-    <img align="right" alt="coding" src="https://media.giphy.com/media/l0HlOvJ7yaacpuSas/giphy.gif" width="200" alt="Signal Preprocessing"/>
+    <img align="right" src="https://media.giphy.com/media/l0HlOvJ7yaacpuSas/giphy.gif" width="200" alt="Signal Preprocessing" style="border: none;"/>
   </div>
 </div>
 
@@ -57,7 +55,7 @@
     <p>GitHub: <a href="https://github.com/yourusername/project2">Data Analytics Learning Repository</a></p>
   </div>
   <div style="flex-shrink: 0; margin-left: 20px;">
-    <img align="right" alt="coding" src="https://media.giphy.com/media/3o6ZtpxSZbQRRnwCKQ/giphy.gif" width="200" alt="Data Analytics"/>
+    <img align="right" src="https://media.giphy.com/media/3o6ZtpxSZbQRRnwCKQ/giphy.gif" width="200" alt="Data Analytics" style="border: none;"/>
   </div>
 </div>
 
@@ -68,7 +66,7 @@
     <p>GitHub: <a href="https://github.com/yourusername/project3">Valorant Fun Repository</a></p>
   </div>
   <div style="flex-shrink: 0; margin-left: 20px;">
-    <img align="right" alt="coding" src="https://media.giphy.com/media/QXkfNbnqAHgz7jyL2k/giphy.gif" width="200" alt="Valorant Fun"/>
+    <img align="right" src="https://media.giphy.com/media/QXkfNbnqAHgz7jyL2k/giphy.gif" width="200" alt="Valorant Fun" style="border: none;"/>
   </div>
 </div>
 
@@ -89,7 +87,5 @@
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=krngrover6&icon=1&color=0" alt="Profile Views"/>
 </p>
-
-</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
