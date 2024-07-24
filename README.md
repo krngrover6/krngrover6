@@ -60,7 +60,7 @@
       <p>GitHub: <a href="https://github.com/yourusername/project2">Data Analytics Learning Repository</a></p>
     </td>
     <td>
-      <img align="right" src="https://media.giphy.com/media/3o6ZtpxSZbQRRnwCKQ/giphy.gif" width="200" alt="Data Analytics"/>
+      <img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWlyY3JjcHZmNW9kemo2aWFwbGFiY3VlMzl6dW5lZzJjYmt1enozYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h8RDGogSns9wpOJFzR/giphy.gif"/>
     </td>
   </tr>
 </table>
