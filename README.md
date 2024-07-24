@@ -6,14 +6,16 @@
 
 # 💫 About Me:
 <div style="display: flex; align-items: center;">
-  <div style="flex: 1;">
+  <div style="flex: 1; min-width: 300px;">
     <ul>
       <li>🔭 I'm currently working on Signal Preprocessing on Sensor Signals.</li>
       <li>🌱 I’m currently learning Data Analytics.</li>
       <li>⚡ Fun fact: I love playing Valorant😍</li>
     </ul>
   </div>
-  <img src="https://media.giphy.com/media/3oKIPtjElfqwMOTbH2/giphy.gif" width="200" style="margin-left: 20px;" />
+  <div style="flex-shrink: 0;">
+    <img src="https://media.giphy.com/media/3oKIPtjElfqwMOTbH2/giphy.gif" width="200" style="margin-left: 20px;" />
+  </div>
 </div>
 
 # 💻 Tech Stack:
@@ -37,29 +39,35 @@
 # 🚀 Projects:
 ## Signal Preprocessing
 <div style="display: flex; align-items: center;">
-  <div style="flex: 1;">
+  <div style="flex: 1; min-width: 300px;">
     <p>Description: A project focused on preprocessing sensor signals.</p>
     <p>GitHub: <a href="https://github.com/yourusername/project1">Signal Preprocessing Repository</a></p>
   </div>
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY244eTAwanB5OHhldm5ycDhmcmsxam5laHZ1dm8yMGc4bTI2am0zZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PiqLX3boNLzNolfkfx/giphy.gif" width="200" style="margin-left: 20px;" />
+  <div style="flex-shrink: 0;">
+    <img src="https://media.giphy.com/media/l0HlOvJ7yaacpuSas/giphy.gif" width="200" style="margin-left: 20px;" />
+  </div>
 </div>
 
 ## Data Analytics Learning
 <div style="display: flex; align-items: center;">
-  <div style="flex: 1;">
+  <div style="flex: 1; min-width: 300px;">
     <p>Description: An ongoing journey to learn and master data analytics.</p>
     <p>GitHub: <a href="https://github.com/yourusername/project2">Data Analytics Learning Repository</a></p>
   </div>
-  <img src="https://media.giphy.com/media/3o6ZtpxSZbQRRnwCKQ/giphy.gif" width="200" style="margin-left: 20px;" />
+  <div style="flex-shrink: 0;">
+    <img src="https://media.giphy.com/media/3o6ZtpxSZbQRRnwCKQ/giphy.gif" width="200" style="margin-left: 20px;" />
+  </div>
 </div>
 
 ## Valorant Fun
 <div style="display: flex; align-items: center;">
-  <div style="flex: 1;">
+  <div style="flex: 1; min-width: 300px;">
     <p>Description: Sharing my passion for playing Valorant.</p>
     <p>GitHub: <a href="https://github.com/yourusername/project3">Valorant Fun Repository</a></p>
   </div>
-  <img src="https://media.giphy.com/media/QXkfNbnqAHgz7jyL2k/giphy.gif" width="200" style="margin-left: 20px;" />
+  <div style="flex-shrink: 0;">
+    <img src="https://media.giphy.com/media/QXkfNbnqAHgz7jyL2k/giphy.gif" width="200" style="margin-left: 20px;" />
+  </div>
 </div>
 
 # 📊 GitHub Stats:
