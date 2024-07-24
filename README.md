@@ -14,7 +14,7 @@
     </ul>
   </div>
   <div style="flex-shrink: 0;">
-    <img src="https://media.giphy.com/media/3oKIPtjElfqwMOTbH2/giphy.gif" width="200" style="margin-left: 20px;" />
+    <img align="right" alt="coding" src="https://media.giphy.com/media/3oKIPtjElfqwMOTbH2/giphy.gif" width="200" style="margin-left: 20px;" />
   </div>
 </div>
 
