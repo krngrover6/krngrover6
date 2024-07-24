@@ -10,7 +10,7 @@
 - ⚡ Fun fact: I love playing Valorant😍
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3oKIPtjElfqwMOTbH2/giphy.gif" width="400" />
+  <img src="https://media.giphy.com/media/3oKIPtjElfqwMOTbH2/giphy.gif" width="300" />
 </p>
 
 # 💻 Tech Stack:
@@ -36,21 +36,21 @@
 - Description: A project focused on preprocessing sensor signals.
 - GitHub: [Signal Preprocessing Repository](https://github.com/yourusername/project1)
 <p align="center">
-  <img src="https://media.giphy.com/media/l0HlOvJ7yaacpuSas/giphy.gif" width="600" />
+  <img src="https://media.giphy.com/media/l0HlOvJ7yaacpuSas/giphy.gif" width="400" />
 </p>
 
 ## Data Analytics Learning
 - Description: An ongoing journey to learn and master data analytics.
 - GitHub: [Data Analytics Learning Repository](https://github.com/yourusername/project2)
 <p align="center">
-  <img src="https://media.giphy.com/media/3o6ZtpxSZbQRRnwCKQ/giphy.gif" width="600" />
+  <img src="https://media.giphy.com/media/3o6ZtpxSZbQRRnwCKQ/giphy.gif" width="400" />
 </p>
 
 ## Valorant Fun
 - Description: Sharing my passion for playing Valorant.
 - GitHub: [Valorant Fun Repository](https://github.com/yourusername/project3)
 <p align="center">
-  <img src="https://media.giphy.com/media/QXkfNbnqAHgz7jyL2k/giphy.gif" width="600" />
+  <img src="https://media.giphy.com/media/QXkfNbnqAHgz7jyL2k/giphy.gif" width="400" />
 </p>
 
 # 📊 GitHub Stats:
