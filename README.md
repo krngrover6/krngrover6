@@ -21,7 +21,7 @@
 </table>
 
 # 💻 Tech Stack:
-<table align="center">
+<table>
   <tr>
     <td><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/></td>
     <td><img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/></td>
@@ -57,7 +57,7 @@
       <p>GitHub: <a href="https://github.com/yourusername/project1">Signal Preprocessing Repository</a></p>
     </td>
     <td>
-      <img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ256emt0OWxkZTdtYml0M293MndhbWYyYzQ1dmE5ZjJkZDQ2NGlsMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PiqLX3boNLzNolfkfx/giphy.gif" width="200" height = "150"/>
+      <img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ256emt0OWxkZTdtYml0M293MndhbWYyYzQ1dmE5ZjJkZDQ2NGlsMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PiqLX3boNLzNolfkfx/giphy.gif" width="200" height="150"/>
     </td>
   </tr>
 </table>
@@ -70,7 +70,7 @@
       <p>GitHub: <a href="https://github.com/yourusername/project2">Data Analytics Learning Repository</a></p>
     </td>
     <td>
-      <img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWlyY3JjcHZmNW9kemo2aWFwbGFiY3VlMzl6dW5lZzJjYmt1enozYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h8RDGogSns9wpOJFzR/giphy.gif" width="200" height = "150"/>
+      <img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWlyY3JjcHZmNW9kemo2aWFwbGFiY3VlMzl6dW5lZzJjYmt1enozYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h8RDGogSns9wpOJFzR/giphy.gif" width="200" height="150"/>
     </td>
   </tr>
 </table>
@@ -83,7 +83,7 @@
       <p>GitHub: <a href="https://github.com/yourusername/project3">Valorant Fun Repository</a></p>
     </td>
     <td>
-      <img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW1qdWNxZ2J5czl0ZTliOXgydmhhOTBqZmFrc3BrdHJheXJtODZrNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l1aHgbr47zJug2ddNb/giphy.gif" width="200" height = "145" alt="Valorant Fun"/>
+      <img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW1qdWNxZ2J5czl0ZTliOXgydmhhOTBqZmFrc3BrdHJheXJtODZrNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l1aHgbr47zJug2ddNb/giphy.gif" width="200" height="145" alt="Valorant Fun"/>
     </td>
   </tr>
 </table>
@@ -96,7 +96,7 @@
       <p>GitHub: <a href="https://github.com/yourusername/project4">Power BI IPL Dashboard Analytics Repository</a></p>
     </td>
     <td>
-      <img align="right" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="200" height = "145" alt="Power BI IPL Dashboard Analytics"/>
+      <img align="right" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="200" height="145" alt="Power BI IPL Dashboard Analytics"/>
     </td>
   </tr>
 </table>
@@ -109,7 +109,7 @@
       <p>GitHub: <a href="https://github.com/yourusername/project5">HR Data Analytics Tableau Repository</a></p>
     </td>
     <td>
-      <img align="right" src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="200" height = "150" alt="HR Data Analytics Tableau"/>
+      <img align="right" src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="200" height="150" alt="HR Data Analytics Tableau"/>
     </td>
   </tr>
 </table>
