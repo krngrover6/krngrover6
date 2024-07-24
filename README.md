@@ -73,7 +73,7 @@
       <p>GitHub: <a href="https://github.com/yourusername/project3">Valorant Fun Repository</a></p>
     </td>
     <td>
-      <img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW1qdWNxZ2J5czl0ZTliOXgydmhhOTBqZmFrc3BrdHJheXJtODZrNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l1aHgbr47zJug2ddNb/giphy.gif" width="200" height = "150" alt="Valorant Fun"/>
+      <img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW1qdWNxZ2J5czl0ZTliOXgydmhhOTBqZmFrc3BrdHJheXJtODZrNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l1aHgbr47zJug2ddNb/giphy.gif" width="200" height = "145" alt="Valorant Fun"/>
     </td>
   </tr>
 </table>
@@ -86,7 +86,7 @@
       <p>GitHub: <a href="https://github.com/yourusername/project4">Power BI IPL Dashboard Analytics Repository</a></p>
     </td>
     <td>
-      <img align="right" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="200" height = "150" alt="Power BI IPL Dashboard Analytics"/>
+      <img align="right" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="200" height = "145" alt="Power BI IPL Dashboard Analytics"/>
     </td>
   </tr>
 </table>
