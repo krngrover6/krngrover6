@@ -16,7 +16,6 @@
     </td>
     <td>
       <img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTZtaDQ1bWMzMnZ6dWFqa2lpZXJyYXlzbTA0ZTk4YjE3NXlkZjV1byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="200" alt="coding"/>
-     
     </td>
   </tr>
 </table>
