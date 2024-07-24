@@ -40,8 +40,8 @@
   <div style="flex: 1;">
     <p>Description: A project focused on preprocessing sensor signals.</p>
     <p>GitHub: <a href="https://github.com/yourusername/project1">Signal Preprocessing Repository</a></p>
-  </div align ='right'>
-  <img src="https://media.giphy.com/media/l0HlOvJ7yaacpuSas/giphy.gif" width="200" style="margin-left: 20px;" />
+  </div>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY244eTAwanB5OHhldm5ycDhmcmsxam5laHZ1dm8yMGc4bTI2am0zZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PiqLX3boNLzNolfkfx/giphy.gif" width="200" style="margin-left: 20px;" />
 </div>
 
 ## Data Analytics Learning
