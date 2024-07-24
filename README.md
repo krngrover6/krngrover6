@@ -13,8 +13,8 @@
       <li>⚡ Fun fact: I love playing Valorant😍</li>
     </ul>
   </div>
-  <div style="flex-shrink: 0;">
-    <img align="right" alt="coding" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTZtaDQ1bWMzMnZ6dWFqa2lpZXJyYXlzbTA0ZTk4YjE3NXlkZjV1byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="200" style="margin-left: 20px;" />
+  <div style="flex-shrink: 0; margin-left: 20px;">
+    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTZtaDQ1bWMzMnZ6dWFqa2lpZXJyYXlzbTA0ZTk4YjE3NXlkZjV1byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="200" alt="coding"/>
   </div>
 </div>
 
@@ -43,8 +43,8 @@
     <p>Description: A project focused on preprocessing sensor signals.</p>
     <p>GitHub: <a href="https://github.com/yourusername/project1">Signal Preprocessing Repository</a></p>
   </div>
-  <div style="flex-shrink: 0;">
-    <img src="https://media.giphy.com/media/l0HlOvJ7yaacpuSas/giphy.gif" width="200" style="margin-left: 200px;" />
+  <div style="flex-shrink: 0; margin-left: 20px;">
+    <img src="https://media.giphy.com/media/l0HlOvJ7yaacpuSas/giphy.gif" width="200" alt="Signal Preprocessing"/>
   </div>
 </div>
 
@@ -54,8 +54,8 @@
     <p>Description: An ongoing journey to learn and master data analytics.</p>
     <p>GitHub: <a href="https://github.com/yourusername/project2">Data Analytics Learning Repository</a></p>
   </div>
-  <div style="flex-shrink: 0;">
-    <img src="https://media.giphy.com/media/3o6ZtpxSZbQRRnwCKQ/giphy.gif" width="200" style="margin-left: 20px;" />
+  <div style="flex-shrink: 0; margin-left: 20px;">
+    <img src="https://media.giphy.com/media/3o6ZtpxSZbQRRnwCKQ/giphy.gif" width="200" alt="Data Analytics"/>
   </div>
 </div>
 
@@ -65,8 +65,8 @@
     <p>Description: Sharing my passion for playing Valorant.</p>
     <p>GitHub: <a href="https://github.com/yourusername/project3">Valorant Fun Repository</a></p>
   </div>
-  <div style="flex-shrink: 0;">
-    <img src="https://media.giphy.com/media/QXkfNbnqAHgz7jyL2k/giphy.gif" width="200" style="margin-left: 20px;" />
+  <div style="flex-shrink: 0; margin-left: 20px;">
+    <img src="https://media.giphy.com/media/QXkfNbnqAHgz7jyL2k/giphy.gif" width="200" alt="Valorant Fun"/>
   </div>
 </div>
 
