@@ -44,7 +44,7 @@
     <p>GitHub: <a href="https://github.com/yourusername/project1">Signal Preprocessing Repository</a></p>
   </div>
   <div style="flex-shrink: 0; margin-left: 20px;">
-    <img align="right" src="https://media.giphy.com/media/l0HlOvJ7yaacpuSas/giphy.gif" width="200" alt="Signal Preprocessing" style="margin-top: -20px; border: none;"/>
+    <img align="right" src="https://media.giphy.com/media/l0HlOvJ7yaacpuSas/giphy.gif" width="200" alt="Signal Preprocessing" style="margin-top: -100px; border: none;"/>
   </div>
 </div>
 
