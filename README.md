@@ -5,13 +5,16 @@
 -->
 
 # 💫 About Me:
-- 🔭 I'm currently working on Signal Preprocessing on Sensor Signals.
-- 🌱 I’m currently learning Data Analytics.
-- ⚡ Fun fact: I love playing Valorant😍
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3oKIPtjElfqwMOTbH2/giphy.gif" width="300" />
-</p>
+<div style="display: flex; align-items: center;">
+  <div>
+    <ul>
+      <li>🔭 I'm currently working on Signal Preprocessing on Sensor Signals.</li>
+      <li>🌱 I’m currently learning Data Analytics.</li>
+      <li>⚡ Fun fact: I love playing Valorant😍</li>
+    </ul>
+  </div>
+  <img src="https://media.giphy.com/media/3oKIPtjElfqwMOTbH2/giphy.gif" width="300" style="margin-left: auto;" />
+</div>
 
 # 💻 Tech Stack:
 <p align="center">
@@ -33,25 +36,31 @@
 
 # 🚀 Projects:
 ## Signal Preprocessing
-- Description: A project focused on preprocessing sensor signals.
-- GitHub: [Signal Preprocessing Repository](https://github.com/yourusername/project1)
-<p align="center">
-  <img src="https://media.giphy.com/media/l0HlOvJ7yaacpuSas/giphy.gif" width="400" />
-</p>
+<div style="display: flex; align-items: center;">
+  <div>
+    <p>Description: A project focused on preprocessing sensor signals.</p>
+    <p>GitHub: <a href="https://github.com/yourusername/project1">Signal Preprocessing Repository</a></p>
+  </div>
+  <img src="https://media.giphy.com/media/l0HlOvJ7yaacpuSas/giphy.gif" width="300" style="margin-left: auto;" />
+</div>
 
 ## Data Analytics Learning
-- Description: An ongoing journey to learn and master data analytics.
-- GitHub: [Data Analytics Learning Repository](https://github.com/yourusername/project2)
-<p align="center">
-  <img src="https://media.giphy.com/media/3o6ZtpxSZbQRRnwCKQ/giphy.gif" width="400" />
-</p>
+<div style="display: flex; align-items: center;">
+  <div>
+    <p>Description: An ongoing journey to learn and master data analytics.</p>
+    <p>GitHub: <a href="https://github.com/yourusername/project2">Data Analytics Learning Repository</a></p>
+  </div>
+  <img src="https://media.giphy.com/media/3o6ZtpxSZbQRRnwCKQ/giphy.gif" width="300" style="margin-left: auto;" />
+</div>
 
 ## Valorant Fun
-- Description: Sharing my passion for playing Valorant.
-- GitHub: [Valorant Fun Repository](https://github.com/yourusername/project3)
-<p align="center">
-  <img src="https://media.giphy.com/media/QXkfNbnqAHgz7jyL2k/giphy.gif" width="400" />
-</p>
+<div style="display: flex; align-items: center;">
+  <div>
+    <p>Description: Sharing my passion for playing Valorant.</p>
+    <p>GitHub: <a href="https://github.com/yourusername/project3">Valorant Fun Repository</a></p>
+  </div>
+  <img src="https://media.giphy.com/media/QXkfNbnqAHgz7jyL2k/giphy.gif" width="300" style="margin-left: auto;" />
+</div>
 
 # 📊 GitHub Stats:
 <p align="center">
