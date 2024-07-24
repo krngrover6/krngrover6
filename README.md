@@ -73,7 +73,7 @@
       <p>GitHub: <a href="https://github.com/yourusername/project3">Valorant Fun Repository</a></p>
     </td>
     <td>
-      <img align="right" src="https://media.giphy.com/media/QXkfNbnqAHgz7jyL2k/giphy.gif" width="200" alt="Valorant Fun"/>
+      <img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTQ4dHZiY2s5dGQ0Yjl5ZnhhdzlnMWhmZ2VibjdsYzUwZjZ4emZ1ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KBvfowpufCmit4b5wq/giphy.gif" width="200" alt="Valorant Fun"/>
     </td>
   </tr>
 </table>
