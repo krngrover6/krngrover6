@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Karan Grover
+## Hi there 👋 I'm Tobias Gameer
 
 <!--
 **krngrover6/krngrover6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -47,7 +47,7 @@
       <p>GitHub: <a href="https://github.com/yourusername/project1">Signal Preprocessing Repository</a></p>
     </td>
     <td>
-      <img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHBuMXdnemF3aTJ3NG1rOWVxYTJ1dTNobjZoYnNkZDRjbTkxZmMxbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FkUyGd7FDh1gk/giphy.gif"  width="200" alt="Signal Preprocessing"/>
+      <img align="right" src="https://media.giphy.com/media/l0HlOvJ7yaacpuSas/giphy.gif" width="200" alt="Signal Preprocessing"/>
     </td>
   </tr>
 </table>
@@ -60,7 +60,7 @@
       <p>GitHub: <a href="https://github.com/yourusername/project2">Data Analytics Learning Repository</a></p>
     </td>
     <td>
-      <img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWlyY3JjcHZmNW9kemo2aWFwbGFiY3VlMzl6dW5lZzJjYmt1enozYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h8RDGogSns9wpOJFzR/giphy.gif" width="200" alt="Data Analytics"/>
+      <img align="right" src="https://media.giphy.com/media/3o6ZtpxSZbQRRnwCKQ/giphy.gif" width="200" alt="Data Analytics"/>
     </td>
   </tr>
 </table>
@@ -73,7 +73,33 @@
       <p>GitHub: <a href="https://github.com/yourusername/project3">Valorant Fun Repository</a></p>
     </td>
     <td>
-      <img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTQ4dHZiY2s5dGQ0Yjl5ZnhhdzlnMWhmZ2VibjdsYzUwZjZ4emZ1ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KBvfowpufCmit4b5wq/giphy.gif" width="200" alt="Valorant Fun"/>
+      <img align="right" src="https://media.giphy.com/media/QXkfNbnqAHgz7jyL2k/giphy.gif" width="200" alt="Valorant Fun"/>
+    </td>
+  </tr>
+</table>
+
+## Power BI IPL Dashboard Analytics
+<table>
+  <tr>
+    <td>
+      <p>Description: A project showcasing IPL dashboard analytics using Power BI.</p>
+      <p>GitHub: <a href="https://github.com/yourusername/project4">Power BI IPL Dashboard Analytics Repository</a></p>
+    </td>
+    <td>
+      <img align="right" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="200" alt="Power BI IPL Dashboard Analytics"/>
+    </td>
+  </tr>
+</table>
+
+## HR Data Analytics Tableau
+<table>
+  <tr>
+    <td>
+      <p>Description: A project focused on HR data analytics using Tableau.</p>
+      <p>GitHub: <a href="https://github.com/yourusername/project5">HR Data Analytics Tableau Repository</a></p>
+    </td>
+    <td>
+      <img align="right" src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="200" alt="HR Data Analytics Tableau"/>
     </td>
   </tr>
 </table>
