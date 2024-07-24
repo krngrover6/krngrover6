@@ -47,7 +47,7 @@
       <p>GitHub: <a href="https://github.com/yourusername/project1">Signal Preprocessing Repository</a></p>
     </td>
     <td>
-      <img align="right" src="https://media.giphy.com/media/l0HlOvJ7yaacpuSas/giphy.gif" width="200" alt="Signal Preprocessing"/>
+      <img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ256emt0OWxkZTdtYml0M293MndhbWYyYzQ1dmE5ZjJkZDQ2NGlsMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PiqLX3boNLzNolfkfx/giphy.gif"/>
     </td>
   </tr>
 </table>
