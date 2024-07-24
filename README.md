@@ -40,7 +40,7 @@
   <div style="flex: 1;">
     <p>Description: A project focused on preprocessing sensor signals.</p>
     <p>GitHub: <a href="https://github.com/yourusername/project1">Signal Preprocessing Repository</a></p>
-  </div>
+  </div align ='right'>
   <img src="https://media.giphy.com/media/l0HlOvJ7yaacpuSas/giphy.gif" width="200" style="margin-left: 20px;" />
 </div>
 
