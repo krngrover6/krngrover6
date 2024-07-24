@@ -14,7 +14,7 @@
     </ul>
   </div>
   <div style="flex-shrink: 0;">
-    <img align="right" alt="coding" src="https://media.giphy.com/media/3oKIPtjElfqwMOTbH2/giphy.gif" width="200" style="margin-left: 20px;" />
+    <img align="right" alt="coding" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTZtaDQ1bWMzMnZ6dWFqa2lpZXJyYXlzbTA0ZTk4YjE3NXlkZjV1byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" style="margin-left: 20px;" />
   </div>
 </div>
 
