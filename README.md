@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Karan Grover
+## Hi there 👋 I'm Tobias Gameer
 
 <!--
 **krngrover6/krngrover6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,6 +16,7 @@
     </td>
     <td>
       <img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTZtaDQ1bWMzMnZ6dWFqa2lpZXJyYXlzbTA0ZTk4YjE3NXlkZjV1byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="200" alt="coding"/>
+      <img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTQ4dHZiY2s5dGQ0Yjl5ZnhhdzlnMWhmZ2VibjdsYzUwZjZ4emZ1ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KBvfowpufCmit4b5wq/giphy.gif" width="200" alt="coding"/>
     </td>
   </tr>
 </table>
