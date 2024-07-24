@@ -4,8 +4,10 @@
 **krngrover6/krngrover6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
+<div style="max-width: 800px; margin: auto;">
+
 # 💫 About Me:
-<div style="display: flex; align-items: center; max-width: 800px;">
+<div style="display: flex; align-items: center;">
   <div style="flex: 1; min-width: 300px;">
     <ul>
       <li>🔭 I'm currently working on Signal Preprocessing on Sensor Signals.</li>
@@ -38,7 +40,7 @@
 
 # 🚀 Projects:
 ## Signal Preprocessing
-<div style="display: flex; align-items: center; max-width: 800px;">
+<div style="display: flex; align-items: center;">
   <div style="flex: 1; min-width: 300px;">
     <p>Description: A project focused on preprocessing sensor signals.</p>
     <p>GitHub: <a href="https://github.com/yourusername/project1">Signal Preprocessing Repository</a></p>
@@ -49,7 +51,7 @@
 </div>
 
 ## Data Analytics Learning
-<div style="display: flex; align-items: center; max-width: 800px;">
+<div style="display: flex; align-items: center;">
   <div style="flex: 1; min-width: 300px;">
     <p>Description: An ongoing journey to learn and master data analytics.</p>
     <p>GitHub: <a href="https://github.com/yourusername/project2">Data Analytics Learning Repository</a></p>
@@ -60,7 +62,7 @@
 </div>
 
 ## Valorant Fun
-<div style="display: flex; align-items: center; max-width: 800px;">
+<div style="display: flex; align-items: center;">
   <div style="flex: 1; min-width: 300px;">
     <p>Description: Sharing my passion for playing Valorant.</p>
     <p>GitHub: <a href="https://github.com/yourusername/project3">Valorant Fun Repository</a></p>
@@ -87,5 +89,7 @@
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=krngrover6&icon=1&color=0" alt="Profile Views"/>
 </p>
+
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
