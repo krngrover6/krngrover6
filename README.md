@@ -107,7 +107,7 @@
       <p>GitHub: <a href="https://github.com/krngrover6/MR_Archery">Mixed Reality Archery Repository</a></p>
     </td>
     <td>
-      <img align="right" src="https://media.giphy.com/media/l1aHgbr47zJug2ddNb/giphy.gif" width="200" height="150" alt="Mixed Reality Archery"/>
+      <img align="right" src="https://github.com/krngrover6/VR_Projects/blob/main/Screenshot%202024-08-21%20212323.png?raw=true" width="200"  alt="Mixed Reality Archery"/>
     </td>
   </tr>
 </table>
