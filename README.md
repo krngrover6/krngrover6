@@ -86,7 +86,7 @@
   </tr>
 </table>
 
-## VR Movement Techniques
+## VR Practice Valley
 <table>
   <tr>
     <td>
@@ -94,7 +94,7 @@
       <p>GitHub: <a href="https://github.com/krngrover6/VRMovement">VR Movement Repository</a></p>
     </td>
     <td>
-      <img align="right" src="https://media.giphy.com/media/h8RDGogSns9wpOJFzR/giphy.gif" width="200" height="150" alt="VR Movement"/>
+      <img align="right" src="https://github.com/krngrover6/VR_Projects/blob/main/Screenshot%202024-08-21%20212103.png?raw=true" width="200"  alt="VR Movement"/>
     </td>
   </tr>
 </table>
