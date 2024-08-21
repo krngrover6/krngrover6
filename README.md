@@ -78,7 +78,7 @@
   <tr>
     <td>
       <p>Description: A VR survival horror game where players fend off zombies in a graveyard. The project incorporates AI navigation, limb-based damage, and immersive VR combat.</p>
-      <p>GitHub: <a href="https://github.com/krngrover6/ZombieSurvival">Zombie Survival Repository</a></p>
+      <p>GitHub: <a href="https://github.com/krngrover6/VR_Zombie_Survival">Zombie Survival Repository</a></p>
     </td>
     <td>
       <img align="right" src="https://github.com/krngrover6/VR_Zombie_Survival/blob/main/Screenshot%202024-08-21%20211838.png?raw=true" width="200" alt="Zombie Survival"/>
