@@ -68,7 +68,7 @@
       <p>GitHub: <a href="https://github.com/krngrover6/VR_StarShip">Starship Repository</a></p>
     </td>
     <td>
-      <img align="right" src="https://github.com/krngrover6/VR_StarShip/blob/main/Screenshot%202024-08-21%20211312.png?raw=true" width="200" height="150" alt="Starship"/>
+      <img align="right" src="https://github.com/krngrover6/VR_StarShip/blob/main/Screenshot%202024-08-21%20211312.png?raw=true" width="200" alt="Starship"/>
     </td>
   </tr>
 </table>
