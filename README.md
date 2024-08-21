@@ -81,7 +81,7 @@
       <p>GitHub: <a href="https://github.com/krngrover6/ZombieSurvival">Zombie Survival Repository</a></p>
     </td>
     <td>
-      <img align="right" src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="200" height="150" alt="Zombie Survival"/>
+      <img align="right" src="https://github.com/krngrover6/VR_Zombie_Survival/blob/main/Screenshot%202024-08-21%20211838.png?raw=true" width="200" height="150" alt="Zombie Survival"/>
     </td>
   </tr>
 </table>
